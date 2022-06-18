@@ -1,0 +1,10 @@
+{
+  "name": "signed-tokens",
+  "main": "./dist/index.js",
+  "types": "./src/@types/index.d.ts",
+  "devDependencies": {
+    "@types/node": "^17.0.13",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.5"
+  }
+}
