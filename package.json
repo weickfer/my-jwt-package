@@ -21,8 +21,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/weickfer/my-jwt-package"
-  },
-  "dependencies": {
-    "signed-tokens": "^1.0.0"
   }
 }
