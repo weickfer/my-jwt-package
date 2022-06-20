@@ -1,6 +1,6 @@
 {
   "name": "signed-tokens",
-  "version": "8.5.1",
+  "version": "1.0.0",
   "author": "weickfer",
   "license": "MIT",
   "main": "./dist/index.js",
