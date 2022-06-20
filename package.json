@@ -1,5 +1,8 @@
 {
   "name": "signed-tokens",
+  "version": "8.5.1",
+  "author": "weickfer",
+  "license": "MIT",
   "main": "./dist/index.js",
   "types": "./src/@types/index.d.ts",
   "devDependencies": {

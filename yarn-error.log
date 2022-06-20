@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Users\weick\.node\corepack\yarn\1.22.15\bin\yarn.js add signed-tokens@
+  C:\Program Files\nodejs\node.exe C:\Users\weick\.node\corepack\yarn\1.22.15\bin\yarn.js add signed-tokens
 
 PATH: 
   C:\Python310\Scripts\;C:\Python310\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\weick\AppData\Local\Microsoft\WindowsApps;C:\Users\weick\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\weick\AppData\Roaming\npm
@@ -35,6 +35,10 @@ npm manifest:
       "@types/node": "^17.0.13",
       "ts-node-dev": "^1.1.8",
       "typescript": "^4.5.5"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/weickfer/my-jwt-package"
     }
   }
 
